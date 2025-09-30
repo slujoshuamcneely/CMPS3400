@@ -1,0 +1,17 @@
+{
+    "data":
+    [
+        {
+            "reference": "potaotes",
+            "pattern": "tao"
+        },
+        {
+            "reference": "potatoes",
+            "pattern": "tomatoes"
+        },
+        {
+            "reference": "potatoes",
+            "pattern": "topatoes"
+        }
+    ]
+}
